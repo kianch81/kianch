@@ -67,9 +67,4 @@
   > لینک خصوصی ,
   > حذف غیرفعالین ,
   > حذف غیرفعالین  ,
-
-#It Will Be Edit Soon
-
-#Wiki Soon...
-
-#Powered By [@SBSS_Team](telegram.me/Sbss_Team)
+@bl_ack_an_gel
